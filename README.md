@@ -16,8 +16,8 @@ git clone
 npm install 
 ```
 #### Demo
-![Image is not loading](https://github.com/kaddy645/WebScraper/blob/master/Screenshot%202020-10-12%20at%201.27.21%20PM.png)
-![Image is not loading](https://github.com/kaddy645/WebScraper/blob/master/Screenshot%202020-10-12%20at%2012.19.04%20PM.png)
+![Image is not loading](https://github.com/kaddy645/WebScraper/blob/master/teams.png)
+![Image is not loading](https://github.com/kaddy645/WebScraper/blob/master/players.png)
 
 
 
